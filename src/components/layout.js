@@ -114,7 +114,7 @@ const Layout = ({ pageTitle, children }) => {
 
         <footer className="container mx-auto text-center text-sm pb-2">
         <p class="cp-text">
-          © {new Date().getFullYear()} <span className="font-bold">Designed by Mohanakrishnan. Inspired by <Link href='https://www.github.com/ibrahim-didi/elegant-portfolio'>elegant-portfolio</Link>.</span>
+          © {new Date().getFullYear()} <span className="font-bold">Designed by Mohanakrishnan.</span>
         </p>
         </footer>
       </main>
