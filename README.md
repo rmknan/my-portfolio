@@ -7,3 +7,5 @@
 
 <img src="./assets/mockup.png" alt="Mockup">
 
+Inspired by **[Ibrahim didi](https://www.github.com/ibrahim-didi/elegant-portfolio')**
+
